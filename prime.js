@@ -9,7 +9,7 @@ for(let i=1; i<=N; i++){
 	}
 }
 
-if(count>=2){
+if(count==2){
 console.log("Prime")
 }
 else{
